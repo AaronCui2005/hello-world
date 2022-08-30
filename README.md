@@ -1,2 +1,3 @@
 # hello-world
 i don't konow what i do,but i want to know...
+我不知道怎么玩这个GitHub，我英语也不好，看着这个觉得很吃力，但是我想把GitHub学会。
